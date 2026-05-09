@@ -1,4 +1,4 @@
-
+Bartender for macOS updated Plugin: virtualization & malware-scanner offers the most advanced Bartender for macOS plugin, with virtualization and malware-scanner. Ideal for macOS
 
 
 
